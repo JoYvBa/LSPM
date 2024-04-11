@@ -1,7 +1,7 @@
 # Land Surface Process Modelling personal project: Land degradation modelling
 
 Model script and supporting files for the LSPM course personal project.
-<pre>
+
 - `ErosionModel.py`     --> PCRaster Python script with the model code and resulting graphs.
 - `canopy_tbl.txt`      --> ASCII text table used for giving the proper values to the parameter for canopy cover. Values based on Morgan (2004).
 - `classes.map`         --> Raster map with the land cover classification of the studied region. 0 is bare soil, 1 is other vegetation (grasses and shrubbery), 2 is forest. Based on Shug et al. (2020).
@@ -19,4 +19,4 @@ Model script and supporting files for the LSPM course personal project.
 - `snow/`               --> Folder for snow deck output from the model.
 - `temperature.txt`     --> Temperature data for the catchment area, for more information and source, see `readme.txt`.
 - `totd/`               --> Folder for total soil detachment per cell model output from the model.
-</pre>
+
